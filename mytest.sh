@@ -3,3 +3,4 @@ date
 cal
 echo "hope yoy got all the output"
 echo "okbye"
+echo "code"
